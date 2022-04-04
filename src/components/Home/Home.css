@@ -17,12 +17,30 @@
     padding: 16px;
     margin: 5px;
     border: none;
-    background-color: orangered;
+    background-color: rgba(255, 68, 0, 0.623);
     color: white;
     border-radius: 5px;
 
 }
 .images{
     width: 50%;
+    
 
 }
+
+h2{
+    text-align: center;
+}
+.review-item{
+    margin-left: 90px;
+    
+}
+
+.cart-item{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 35px;
+    text-align: center;
+    
+}
+

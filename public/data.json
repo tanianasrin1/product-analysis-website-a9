@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Jhon",
+        "ratting": 4,
+        "feedback": "best product"
+
+    },
+    {
+        "id": 2,
+        "name": "Smith",
+        "ratting": 3,
+        "feedback": "best product"
+
+    },
+    {
+        "id": 3,
+        "name": "Mrs.Pampa",
+        "ratting": 3,
+        "feedback": "best product"
+
+    },
+    {
+        "id": 4,
+        "name": "DreamTime",
+        "ratting": 3,
+        "feedback": "best product"
+
+    },
+    {
+        "id": 5,
+        "name": "Mst Smith",
+        "ratting": 3,
+        "feedback": "best product"
+
+    },
+    {
+        "id": 6,
+        "name": "Mr. Quare",
+        "ratting": 3,
+        "feedback": "best product"
+
+    }
+    
+]

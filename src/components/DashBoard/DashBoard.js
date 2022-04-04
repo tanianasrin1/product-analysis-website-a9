@@ -66,24 +66,31 @@ const DashBoard = () => {
     return (
         <div className='rechart'>
             
-            <LineChart width={450} height={200} data={data}>
+          <div>
+              
+          <LineChart width={450} height={200} data={data}>
                 <Line dataKey={"sell"}></Line>
                 <XAxis dataKey={"month"}></XAxis>
                 <Tooltip></Tooltip>
                 <YAxis></YAxis>
 
             </LineChart>
-
-            <PieChart width={400} height={400}>
+            <h2>Investment vs Revenue</h2>
+          </div>
+            
+       
+           <div>
+               
+           <PieChart width={400} height={400}>
                 <Pie data={data01} dataKey="value" cx="50%" cy="50%" outerRadius={60} fill="#8884d8"></Pie>
                 <Pie data={data02} dataKey="value" cx="50%" cy="50%" innerRadius={70} outerRadius={90} fill="#82ca9d" label ></Pie>
 
                 <Tooltip></Tooltip>
 
             </PieChart>
+            <h2>Investment vs Revenue</h2>
+           </div>
             
-
-
         </div>
     );
 };
