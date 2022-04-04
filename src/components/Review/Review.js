@@ -6,7 +6,7 @@ const Review = (props) => {
     return (
         
         <div className='review-cart'>
-            {/* <img src= {img} alt="" /> */}
+            <img src= {img} alt="" />
             <h3>Name: {name} </h3>
             <h5>Id: {id} </h5>
             <h6>Ratting: {ratting} </h6>
