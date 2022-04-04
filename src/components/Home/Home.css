@@ -10,12 +10,17 @@
 
 }
 .title{
-    color: orangered;
+    color: #13B8EC;
 }
 
 .btn{
     padding: 16px;
     margin: 5px;
+    border: none;
+    background-color: orangered;
+    color: white;
+    border-radius: 5px;
+
 }
 .images{
     width: 50%;
