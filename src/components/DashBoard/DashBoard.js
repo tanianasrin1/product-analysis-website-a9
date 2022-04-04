@@ -9,9 +9,7 @@ const DashBoard = () => {
             "investment": 100000,
             "sell": 241,
             "revenue": 10401,
-            // "cx":"50%",
-            // "cy":"50%",
-            // "outerRadius":50
+            
         },
         {
             "month": "Apr",

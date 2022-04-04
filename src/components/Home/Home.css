@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 90px
+}
+
+.header-title{
+    width: 50%;
+
+}
+.title{
+    color: orangered;
+}
+
+.btn{
+    padding: 16px;
+    margin: 5px;
+}
+.images{
+    width: 50%;
+
+}
