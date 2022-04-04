@@ -3,6 +3,7 @@
         "id": 1,
         "name": "Jhon",
         "ratting": 4,
+        "img": "https://media.istockphoto.com/photos/hes-a-handsome-man-picture-id180841365?b=1&k=20&m=180841365&s=170667a&w=0&h=ulMDl_mKdJ-kAPeP7qn5PTYFkxGSW97QTYx_I6mreaU=",
         "feedback": "best product"
 
     },
@@ -10,13 +11,14 @@
         "id": 2,
         "name": "Smith",
         "ratting": 3,
+        "img": "https://thumbs.dreamstime.com/b/handsome-man-black-suit-white-shirt-posing-studio-attractive-guy-fashion-hairstyle-confident-man-short-beard-125019349.jpg",
         "feedback": "best product"
 
     },
     {
         "id": 3,
-        "name": "Mrs.Pampa",
-        "ratting": 3,
+        "name": "Mr.Pampa",
+        "ratting": 3.5,
         "img": "https://thumbs.dreamstime.com/b/portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.jpg",
         "feedback": "best product"
 
@@ -25,6 +27,7 @@
         "id": 4,
         "name": "DreamTime",
         "ratting": 3,
+        "img": "https://image.shutterstock.com/image-photo/cheerful-positive-guy-beard-rejoicing-260nw-1478799818.jpg",
         "feedback": "best product"
 
     },
@@ -32,13 +35,15 @@
         "id": 5,
         "name": "Mst Smith",
         "ratting": 3,
+        "img": "https://image.shutterstock.com/image-photo/portrait-beautiful-african-american-woman-260nw-1123160147.jpg",
         "feedback": "best product"
 
     },
     {
         "id": 6,
         "name": "Mr. Quare",
-        "ratting": 3,
+        "ratting": 5,
+        "img": "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358__340.jpg",
         "feedback": "best product"
 
     }
