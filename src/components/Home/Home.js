@@ -1,16 +1,14 @@
 import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
+import useAllReviews from '../../Hook/useAllReviews';
 import Review from '../Review/Review';
 import './Home.css'
 
 
 const Home = () => {
-    const [reviews, setReviews] = useState([])
+    const [reviews, setReviews] = useAllReviews()
 
-    useEffect( () => {
-        fetch('data.json')
-        .then(res => res.json())
-        .then(data => setReviews(data) )
-    } , [])
+    
 
     return (
         <div>
@@ -37,7 +35,7 @@ const Home = () => {
             }
            </div>
          <br />
-           <button   className='btn'>See All Product</button>
+           <Link to ='/review'> <button   className='btn'>See All Product</button> </Link>
           </div>
 
         </div>
