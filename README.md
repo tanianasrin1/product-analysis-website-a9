@@ -4,17 +4,13 @@
 
 Click here to create private repo: https://amazing-malasada-15d954.netlify.app/
 
-## Available Scripts
 
-In the project directory, you can run:
+# Special Works
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Use to custom hooks
+- Use to rechart draw
+- 404 fixed
+- Customer review
 
 ### `npm test`
 
