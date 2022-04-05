@@ -2,6 +2,8 @@
 
 ## [Private repo link](https://amazing-malasada-15d954.netlify.app/)
 
+Click here to create private repo: https://amazing-malasada-15d954.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
