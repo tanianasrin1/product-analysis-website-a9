@@ -1,6 +1,6 @@
 # Product Review website
 
-[Private repo link](https://amazing-malasada-15d954.netlify.app/).
+## [Private repo link](https://amazing-malasada-15d954.netlify.app/)
 
 ## Available Scripts
 
