@@ -1,6 +1,6 @@
 # Product Review website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Private repo link](https://amazing-malasada-15d954.netlify.app/).
 
 ## Available Scripts
 
